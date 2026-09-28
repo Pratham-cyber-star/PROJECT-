@@ -1,0 +1,38 @@
+[
+  {
+    "number": "12301",
+    "name": "Howrah Rajdhani",
+    "source": "Delhi",
+    "destination": "Kolkata",
+    "departure": "16:55",
+    "total_seats": 10,
+    "fare": 1850
+  },
+  {
+    "number": "12951",
+    "name": "Pushpak Express",
+    "source": "Lucknow",
+    "destination": "Mumbai",
+    "departure": "21:25",
+    "total_seats": 16,
+    "fare": 2100
+  },
+  {
+    "number": "12009",
+    "name": "Shatabdi Express",
+    "source": "Delhi",
+    "destination": "Bhopal",
+    "departure": "06:15",
+    "total_seats": 10,
+    "fare": 950
+  },
+  {
+    "number": "12358",
+    "name": "Durgiana Express",
+    "source": "Lucknow",
+    "destination": "Kolkata",
+    "departure": "20:15",
+    "total_seats": 20,
+    "fare": 1950
+  }
+]
